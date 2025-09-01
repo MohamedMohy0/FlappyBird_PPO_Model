@@ -19,5 +19,5 @@ The agent learns by interacting with the [Flappy Bird Gymnasium Environment](htt
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/FlappyBird_PPO_Model.git
+git clone https://github.com/MohamedMohy0/FlappyBird_PPO_Model.git
 cd FlappyBird_PPO_Model
